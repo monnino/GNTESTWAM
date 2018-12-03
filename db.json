@@ -1,32 +1,14 @@
-{  
-   "Authentication":true,
-   "Status":1,
-   "TemplateName":"",
-   "ErrorMessage":null,
-   "Files":[  
-      {  
-         "IdQueue":1,
-         "FileName":"WamDownloader.xml",
-         "FileBase64":"VEVTVCBYTUwgR0hFTExBIDEgMSAxIA==",
-         "Hash":"",
-         "ErrorMessage":null,
-         "IdRecDoc":1,
-         "OtherInfo":{  
-            "Fields":[  
-               {  
-                  "Name":"Numero",
-                  "Value":"1"
-               },
-               {  
-                  "Name":"Data",
-                  "Value":"20180530"
-               },
-               {  
-                  "Name":"Societa",
-                  "Value":"A"
-               }
-            ]
-         }
-      }
-   ]
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
