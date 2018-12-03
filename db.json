@@ -27,15 +27,6 @@
                }
             ]
          }
-      },
-      {  
-         "IdQueue":2,
-         "FileName":"allegato.xml",
-         "FileBase64":"VEVTVCBYTUwgR0hFTExBIDEgMSAxIA==",
-         "Hash":"",
-         "ErrorMessage":null,
-         "IdRecDoc":1,
-         "OtherInfo":null
       }
    ]
 }
