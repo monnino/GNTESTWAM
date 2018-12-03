@@ -7,7 +7,31 @@
    "Files":[  
       {  
          "IdQueue":1,
-         "FileName":"WamDownloader.xml",
+         "FileName":"WamDownloader_33.xml",
+         "FileBase64":"VEVTVCBYTUwgR0hFTExBIDEgMSAxIA==",
+         "Hash":"",
+         "ErrorMessage":"",
+         "IdRecDoc":1,
+         "OtherInfo":{  
+            "Fields":[  
+               {  
+                  "Name":"Numero",
+                  "Value":"1"
+               },
+               {  
+                  "Name":"Data",
+                  "Value":"20180530"
+               },
+               {  
+                  "Name":"Societa",
+                  "Value":"A"
+               }
+            ]
+         }
+      },
+      {  
+         "IdQueue":1,
+         "FileName":"WamDownloader_32.xml",
          "FileBase64":"VEVTVCBYTUwgR0hFTExBIDEgMSAxIA==",
          "Hash":"",
          "ErrorMessage":"",
